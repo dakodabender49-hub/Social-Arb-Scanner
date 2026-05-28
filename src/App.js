@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useCallback } from "react";
 
 const PLATFORMS = ["TikTok", "Instagram", "Google Trends", "Reddit", "X/Twitter"];
 
